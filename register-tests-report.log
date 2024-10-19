@@ -1,0 +1,18 @@
+May 19, 2024 1:05:29 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Navigated to Home Page.
+May 19, 2024 1:05:32 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Clicked on Log In Menu Button.
+May 19, 2024 1:05:33 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Clicked on Register Button.
+May 19, 2024 1:05:33 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Printed Register Page Title.
+May 19, 2024 1:05:36 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Filled registration form.
+May 19, 2024 1:05:37 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Submitted registration form.
+May 19, 2024 1:05:38 PM com.detyre.RegisterTest assertAndLog
+INFO: Registration was successful.
+May 19, 2024 1:05:39 PM com.detyre.RegisterTest successfulRegistrationForm
+INFO: Logged out.
+May 19, 2024 1:05:39 PM com.detyre.RegisterTest tearDown
+INFO: Registration test completed.

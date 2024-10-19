@@ -1,0 +1,26 @@
+May 19, 2024 1:05:49 PM com.detyre.DashboardTest successfulDashboardTest
+INFO: Successfully logged in for Dashboard Test.
+May 19, 2024 1:05:49 PM com.detyre.DashboardTest successfulDashboardTest
+INFO: Hovered over Computer button.
+May 19, 2024 1:05:51 PM com.detyre.DashboardTest successfulDashboardTest
+INFO: Navigated to Notebooks page.
+May 19, 2024 1:05:51 PM com.detyre.DashboardTest successfulDashboardTest
+INFO: Verified Notebooks page title.
+May 19, 2024 1:05:52 PM com.detyre.DashboardTest assertAndLog
+INFO: Second item added to wishlist successfully.
+May 19, 2024 1:05:52 PM com.detyre.DashboardTest assertAndLog
+INFO: Third item added to wishlist successfully.
+May 19, 2024 1:05:58 PM com.detyre.DashboardTest assertAndLog
+INFO: Fourth item added to cart successfully.
+May 19, 2024 1:06:02 PM com.detyre.DashboardTest assertAndLog
+INFO: Fifth item added to cart successfully.
+May 19, 2024 1:06:05 PM com.detyre.DashboardTest assertAndLog
+INFO: Sixth item added to cart successfully.
+May 19, 2024 1:06:05 PM com.detyre.DashboardTest assertAndLog
+INFO: Wishlist count matches expected value.
+May 19, 2024 1:06:05 PM com.detyre.DashboardTest assertAndLog
+INFO: Shopping Cart count matches expected value.
+May 19, 2024 1:06:07 PM com.detyre.DashboardTest successfulDashboardTest
+INFO: Logged out successfully after Dashboard Test.
+May 19, 2024 1:06:07 PM com.detyre.DashboardTest tearDown
+INFO: Dashboard test completed.

@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="false" preserve-order="true">
+    <test name="Test Case">
+        <classes>
+            <class name="com.detyre.RegisterTest"></class>
+        <class name="com.detyre.LoginTests">
+           <methods>
+                    <include name="successfulLoginTest"/>
+                    <exclude name="successfulLoginForDashboardTest"/> 
+            </methods>
+           </class>
+            <class name="com.detyre.DashboardTest">
+               <methods>
+                    <include name="successfulDashboardTest"/>
+                      <exclude name="successfulDashboardForShoppingCartTest"/> 
+                </methods>
+            </class>
+            <class name="com.detyre.ShoppingCartTest"></class>
+
+        </classes>
+    </test>
+</suite>

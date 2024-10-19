@@ -1,0 +1,18 @@
+May 19, 2024 1:06:11 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Successfully completed Dashboard Test for Shopping Cart.
+May 19, 2024 1:06:15 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Go to cart button displayed.
+May 19, 2024 1:06:17 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Navigated to Shopping Cart page.
+May 19, 2024 1:06:18 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Continue Shopping button displayed.
+May 19, 2024 1:06:18 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Estimate Shipping button displayed.
+May 19, 2024 1:06:18 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Total price matches the sum of product subtotals.
+May 19, 2024 1:06:25 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Order successfully processed.
+May 19, 2024 1:06:25 PM com.detyre.ShoppingCartTest shoppingCartTest
+INFO: Order number displayed.
+May 19, 2024 1:06:26 PM com.detyre.ShoppingCartTest tearDown
+INFO: WebDriver quit successfully.

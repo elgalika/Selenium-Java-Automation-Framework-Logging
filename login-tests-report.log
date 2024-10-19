@@ -1,0 +1,40 @@
+May 19, 2024 1:05:40 PM com.detyre.LoginTests successfulLoginTest
+INFO: Navigated to Home Page.
+May 19, 2024 1:05:41 PM com.detyre.LoginTests successfulLoginTest
+INFO: Clicked on Log In Menu Button.
+May 19, 2024 1:05:42 PM com.detyre.LoginTests successfulLoginTest
+INFO: Entered login credentials.
+May 19, 2024 1:05:43 PM com.detyre.LoginTests successfulLoginTest
+INFO: Clicked on Login Button.
+May 19, 2024 1:05:43 PM com.detyre.LoginTests assertAndLog
+INFO: Welcome message displayed.
+May 19, 2024 1:05:44 PM com.detyre.LoginTests assertAndLog
+INFO: Log out menu displayed.
+May 19, 2024 1:05:45 PM com.detyre.LoginTests successfulLoginTest
+INFO: Logged out.
+May 19, 2024 1:05:45 PM com.detyre.LoginTests tearDown
+INFO: Login test completed.
+May 19, 2024 1:05:46 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Navigated to Home Page.
+May 19, 2024 1:05:47 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Clicked on Log In Menu Button.
+May 19, 2024 1:05:47 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Entered login credentials.
+May 19, 2024 1:05:49 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Clicked on Login Button.
+May 19, 2024 1:05:49 PM com.detyre.LoginTests assertAndLog
+INFO: Welcome message displayed.
+May 19, 2024 1:05:49 PM com.detyre.LoginTests assertAndLog
+INFO: Log out menu displayed.
+May 19, 2024 1:06:07 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Navigated to Home Page.
+May 19, 2024 1:06:08 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Clicked on Log In Menu Button.
+May 19, 2024 1:06:09 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Entered login credentials.
+May 19, 2024 1:06:10 PM com.detyre.LoginTests successfulLoginForDashboardTest
+INFO: Clicked on Login Button.
+May 19, 2024 1:06:10 PM com.detyre.LoginTests assertAndLog
+INFO: Welcome message displayed.
+May 19, 2024 1:06:10 PM com.detyre.LoginTests assertAndLog
+INFO: Log out menu displayed.
